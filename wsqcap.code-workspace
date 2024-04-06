@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			// Everything
+			"name": "Everything",
+			"path": "."
+		},
+		{
+			// Parent Theme
+			"name": "Parent Theme",
+			"path": "app/public/wp-content/themes/consbie"
+		},
+		{
+			// Child Theme
+			"name": "Child Theme",
+			"path": "app/public/wp-content/themes/consbie-child"
+
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,4 @@
+[Tue Feb 20 14:48:57.071727 2024] [access_compat:error] [pid 2939:tid 12972019712] [client 127.0.0.1:62621] AH01797: client denied by server configuration: /Users/joshua/Work/wsqcap/app/public/wp-content/uploads/woocommerce_uploads/
+[Thu Feb 22 17:02:37.289437 2024] [access_compat:error] [pid 8327:tid 12969082880] [client 127.0.0.1:57855] AH01797: client denied by server configuration: /Users/joshua/Work/wsqcap/app/public/wp-content/uploads/woocommerce_uploads/
+[Fri Feb 23 10:43:37.772956 2024] [proxy_fcgi:error] [pid 8300:tid 12972838912] [client 127.0.0.1:52586] AH01067: Failed to read FastCGI header, referer: https://wsqcap.local/wp-admin/post.php?post=10621&action=elementor
+[Fri Feb 23 10:43:37.773476 2024] [proxy_fcgi:error] [pid 8300:tid 12972838912] (70014)End of file found: [client 127.0.0.1:52586] AH01075: Error dispatching request to :10039: , referer: https://wsqcap.local/wp-admin/post.php?post=10621&action=elementor
