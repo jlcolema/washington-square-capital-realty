@@ -8,3 +8,5 @@ conf/
 logs/
 app/sql/
 wp-config*
+*.sql
+app/public/wp-content/updraft
